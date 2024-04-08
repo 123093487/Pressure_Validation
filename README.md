@@ -19,6 +19,7 @@ Install all these using the command: pip installopencv-python numpy pandas matpl
 Instructions: 
 For training Your own handwriting validation model: 
 1.Open the Pressure_val.ipynb notebook file in any IDE (Jupyter,Vscode etc).
+
 1.Make sure you have your image datasets organized in folders based on their classes ("low" and "high").
 2.If using a PDF for image extraction, ensure it is in the specified location (pdf_file_path).
 3.Run data loading part directly if augmentation is not required and ensure your desired parameters are set as hyperparameters.
